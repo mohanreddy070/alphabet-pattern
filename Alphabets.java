@@ -1,4 +1,4 @@
-import java.util.Scanner;
+rmport java.util.Scanner;
 
 
 public class Alphabets {
@@ -7,8 +7,8 @@ public static void main(String[] args) {
 		
 		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
-		System.out.println("This ptogram diaplays input alphabets as  star alphabet pattern");
-		System.out.println("Enter string value(use only alphabets)");
+		System.out.println("This program diaplays input alphabets as  star alphabet pattern");
+		System.out.println("Enter string value(use only alphabets and spaces)");
 		String s= new String();
 		s = scan.nextLine();
 		int n= 12;
@@ -369,7 +369,8 @@ public static void main(String[] args) {
 			}
 			System.out.println();
 		}
-		System.out.println("");
+		System.out.println("linkedin.com/in/mohanreddy070");
+		System.out.println("fb.com/mohanreddy070");
 	}
 
 
